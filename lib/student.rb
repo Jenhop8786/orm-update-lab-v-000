@@ -1,8 +1,8 @@
 require_relative "../config/environment.rb"
 
 class Student(name, grade)
-  @name = name 
+  @name = name
   @grade = grade 
 
-
+end 
 end
